@@ -8,7 +8,7 @@
 <ul dir="auto">
   <li>C#, JavaScript &amp; TypeScript</li>
   <li>Data Structures &amp; Algorithm</li>
-  <li>Mathematicst</li>
+  <li>Mathematics</li>
 </ul>
 
 
