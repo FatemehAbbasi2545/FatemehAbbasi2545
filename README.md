@@ -19,6 +19,15 @@
 <a href="https://angular.io/" rel="nofollow">
   <img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/139426?s=200&amp;v=4" alt="@angular" width="40" height="40">
 </a>&nbsp;&nbsp;
+<a href="https://rxjs.dev/" rel="nofollow">
+  <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="RxJS" width="40" height="40" style="max-width: 100%;">
+</a>&nbsp;&nbsp;
+<a href="https://ngrx.io/" rel="nofollow">
+  <img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/16272733?s=200&amp;v=4" width="40" height="40" alt="@ngrx">
+</a>&nbsp;&nbsp;
+
+
+
 
 
 
