@@ -25,6 +25,24 @@
 <a href="https://ngrx.io/" rel="nofollow">
   <img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/16272733?s=200&amp;v=4" width="40" height="40" alt="@ngrx">
 </a>&nbsp;&nbsp;
+<a href="https://www.learn-c.org/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width="40" height="40" alt="c logo">
+</a>&nbsp;&nbsp;
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" rel="nofollow">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" width="40" height="40" alt="csharp logo">
+</a>&nbsp;&nbsp;
+<a href="https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore" rel="nofollow">
+  <img itemprop="image" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" width="40" height="40"alt=".NET_Core">
+</a>&nbsp;&nbsp;
+<a href="https://learn.microsoft.com/en-us/ef/core/" rel="nofollow">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFXEQU3JzHDgAlna7ELeMSeblYHGYY0eJlbEtu1yGvnHR8jri4A84nd2oua_UuBxDBebM&amp;usqp=CAU" width="40" height="40" alt="Entity Framework Core" >
+</a>&nbsp;&nbsp;
+<a href="https://www.microsoft.com/en-us/sql-server" rel="nofollow">
+  <img itemprop="image" src="https://upload.wikimedia.org/wikipedia/de/thumb/8/8c/Microsoft_SQL_Server_Logo.svg/1200px-Microsoft_SQL_Server_Logo.svg.png" width="40" height="40" alt="SQLServer">
+</a>&nbsp;&nbsp;
+
+
+
 
 
 
