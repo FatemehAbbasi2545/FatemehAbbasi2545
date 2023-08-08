@@ -16,6 +16,15 @@
   <img src="https://camo.githubusercontent.com/8ba3df00b9b24c1abe77b7b35564d16250503c3aac2cf3ccce3b88666be2b33c/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3334393534302f747970657363726970742e737667" 
     alt="typescript" width="40" height="40" data-canonical-src="https://www.svgrepo.com/show/349540/typescript.svg" style="max-width: 100%;">
 </a>&nbsp;&nbsp;
+<a href="https://angular.io/" rel="nofollow">
+  <img itemprop="image" class="avatar flex-shrink-0 mb-3 mr-3 mb-md-0 mr-md-4" src="https://avatars.githubusercontent.com/u/139426?s=200&amp;v=4" alt="@angular" width="40" height="40">
+</a>&nbsp;&nbsp;
+
+
+
+
+
+
 
 
 
