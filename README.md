@@ -10,6 +10,7 @@
 <h3 dir="auto">My Skills:</h3>
 <p><h4>JavaScript, TypeScript, Angular, RxJS, NgRx, React, Redux, Jest</h4></p>
 <p><h4>C, C#, ASP.NET Core, Entity Framework Core, SQLServer</h4></p>
+<p><h4>Data Structures, Algorithm</h4></p>
 
 
 
